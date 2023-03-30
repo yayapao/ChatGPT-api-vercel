@@ -1,6 +1,6 @@
 # ChatGPT-api-vercel
 
-Deploy ChatGPT API proxy on vercel quickily.
+Deploy ChatGPT API proxy using vercel serverless quickily.
 
 ## Preparation
 
